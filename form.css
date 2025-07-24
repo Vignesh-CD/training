@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-section{
+    background-color: lightseagreen;
+    padding-top: 100px;
+    padding-bottom: 150px;
+
+}
+.form{
+    padding: 100px 100px;
+    background-color: white;
+    margin-right: 500px;
+    margin-left: 500px;
+    border-radius: 8px;
+    height: 500px;
+}
+.details{
+    text-align: center;
+    margin-top: -50px;
+}
+.details-name input{
+    padding: 8px 20px;
+    width: 300px;
+    justify-content: space-around;
+    margin-left: 123px;
+}
+.details-name label{
+    font-size: 25px;
+}
+.details-name{
+    display: flex;
+    margin-top: 50px;
+
+}
+.details-last input{
+    padding: 8px 20px;
+    width: 300px;
+    justify-content: space-around;
+    margin-left: 127px;
+}
+.details-last label{
+    font-size: 25px;
+}
+.details-last{
+    display: flex;
+    margin-top: 30px;
+}
+.details-number input{
+    padding: 8px 20px;
+    width: 300px;
+    justify-content: space-around;
+    margin-left: 56px;
+}
+.details-number label{
+    font-size: 25px;
+
+}
+.details-number{
+    display: flex;
+    margin-top: 30px;
+}
+.details-address input{
+    padding: 8px 20px;
+    width: 300px;
+    justify-content: space-around;
+    margin-left: 80px;
+}
+.details-address label{
+    font-size: 25px;
+
+}
+.details-address{
+    display: flex;
+    margin-top: 30px;
+}
+.details-location input{
+    padding: 8px 20px;
+    width: 300px;
+    justify-content: space-around;
+    margin-left: 145px;
+}
+.details-location label{
+    font-size: 25px;
+
+}
+.details-location{
+    display: flex;
+    margin-top: 30px;
+}
+.btn{
+    padding: 15px 70px;
+    background-color: navy;
+    color: white;
+    border:  none;
+    margin-top: 80px;
+    font-size: 20px;
+    border-radius:  500px;
+    margin-left: 230px;
+}
